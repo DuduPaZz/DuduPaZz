@@ -16,14 +16,6 @@
 <br>
 <br>
 
-### 📱 Redes Sociais  
-- [LinkedIn](https://www.linkedin.com/in/eduardo-paz-440363274/)
-<br>
-<br>
-
-
-
-
 ### - Tecnologias que tenho mais domínio  
 #
 <div style="display:inline-block">
@@ -48,3 +40,16 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<br>
+<br>
+
+### 📱 Redes Sociais  
+- [LinkedIn](https://www.linkedin.com/in/eduardo-paz-440363274/)
+<br>
+<br>
+
+
+
+
+
