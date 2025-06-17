@@ -12,7 +12,7 @@
 <br>
 
 ### 💼 Onde estou trabalhando atualmente  
-- Atualmente Estagiário na equipe de engenharia da [Creare Sistemas](https://www.crearesistemas.com.br)
+- Atualmente Estagiário da área de engenharia, atuando na equipe de IA da [Creare Sistemas](https://www.crearesistemas.com.br)
 <br>
 <br>
 
