@@ -1,56 +1,82 @@
-### 😄 Opa, me chamo Eduardo  
+# 👋 Hi there, I'm Eduardo Paz!
 
-- Sou um desenvolvedor em constante evolução, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.  
-<br>
+## 💻 Full Stack Trainee Developer
 
+I'm a Full Stack Developer passionate about building scalable web applications, integrating APIs, and creating AI-powered solutions.
 
-### 🎓 Formação Acadêmica (Cursando) 
-- **[Universidade do Vale do Rio dos Sinos](https://www.unisinos.br/)**  
-  - Curso: **Análise e Desenvolvimento de Sistemas**  
-  - Previsão de conclusão: **2026**
-<br>
-<br>
+Currently, I work at **Creare Sistemas**, developing modern applications with **Next.js**, **Node.js**, and AI technologies, while collaborating on both frontend and backend development.
 
-### 💼 Onde estou trabalhando atualmente  
-- Atualmente Estagiário da área de engenharia, atuando na equipe de IA da [Creare Sistemas](https://www.crearesistemas.com.br)
-<br>
-<br>
+---
 
-### - Tecnologias que tenho mais domínio  
-#
-<div style="display:inline-block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img align="center" alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</div>
+## 🚀 About Me
 
-<br>
+- 💼 Full Stack Trainee at **Creare Sistemas**
+- 🎓 B.Sc. in Analysis and Systems Development (Unisinos) — Expected graduation: **2026**
+- 🤖 Previous experience in the company's AI team
+- 🌐 Focused on Full Stack Development
+- 📚 Always learning new technologies and best practices
 
-### - Tecnologias com as quais já tive contato  
-#
-<div style="display:inline-block">
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+---
 
-</div>
+## 🛠️ Tech Stack
 
-<br>
-<br>
+### Frontend
 
-### 📱 Redes Sociais  
-- [LinkedIn](https://www.linkedin.com/in/eduardo-paz-440363274/)
-<br>
-<br>
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+### Backend
 
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+</p>
 
+### Database
 
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+</p>
 
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket"/>
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+I've worked on projects involving:
+
+- Large Language Models (LLMs)
+- AI Assistants
+- MCP (Model Context Protocol)
+- API Integrations
+- Facial Recognition
+- Computer Vision
+- Machine Learning
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Paz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-paz-440363274/)
+
+---
+
+> *"Always learning. Always building."*
